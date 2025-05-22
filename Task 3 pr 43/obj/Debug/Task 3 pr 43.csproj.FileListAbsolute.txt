@@ -1,0 +1,6 @@
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\bin\Debug\Task 3 pr 43.exe.config
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\bin\Debug\Task 3 pr 43.exe
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\bin\Debug\Task 3 pr 43.pdb
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\obj\Debug\Task 3 pr 43.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\obj\Debug\Task 3 pr 43.exe
+C:\Users\Kab-35-16\source\repos\Task 3 pr 43\obj\Debug\Task 3 pr 43.pdb
