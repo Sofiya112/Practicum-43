@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practicum_43
 {
+    ///Структура с публичным полем change
     struct MyStruct
     {
         public string change; 
